@@ -1,0 +1,37 @@
+body {
+    background-color: #F3E9D2;
+}
+
+.container {
+    padding: 3%;
+    margin: 2% 30%;
+    border: 2px;
+    border-style: dashed;
+    border-color: black;
+    overflow: hidden;
+}
+
+img {
+    width: 30%;
+    height: 10;
+    margin: 2% 35%;
+}
+
+h2 {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+}
+
+.MainNav ul {
+    text-align: center;
+}
+
+.MainNav li {
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    padding: 2px 10px;
+}
